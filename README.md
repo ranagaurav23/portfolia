@@ -6,4 +6,4 @@
    I have created a dashboard after analysing the dataset that i have extracted from kaggle.
 
    [Dashboard link](https://github.com/ranagaurav23/car_sales_dashboard_tableau)
-   ![image](
+   ![image](https://github.com/ranagaurav23/car_sales_dashboard_tableau/blob/main/Dashboard%201%20(7).png?raw=true)
